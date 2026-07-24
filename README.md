@@ -14,5 +14,5 @@ Merhaba! Ben Türkiye'den bir Bilgisayar Mühendisliği öğrencisi ve ofansif g
 
 ## 📫 İletişim
 Bana ulaşmak veya projelerim hakkında konuşmak isterseniz:
-* **LinkedIn:** [https://www.linkedin.com/in/mira%C3%A7-aral-848520332/]
-* **Email:** [mmirac.aral@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/mira%C3%A7-aral-848520332/
+* **Email:** mmirac.aral@gmail.com
