@@ -1,6 +1,6 @@
 # root@miracaral:~# whoami
 
-Merhaba! Ben Türkiye'den bir Bilgisayar Mühendisliği öğrencisi ve ofansif güvenlik alanında yetkinliklerini sahada kanıtlamaya odaklanan bir Junior Penetration Tester'ım. 
+Merhaba! Ben Türkiye'den bir Bilgisayar Mühendisliği öğrencisi ve ofansif güvenlik alanında yetkinliklerini sahada kanıtlamaya odaklanan bir Penetration Tester'ım. 
 
 ## ⚔️ Teknik Kabiliyetler
 * **Sızma Testi & Güvenlik:** Offensive Security konseptlerinde ileri düzey pratik (TryHackMe Top %1, Hack The Box, Proving Grounds).
