@@ -2,12 +2,10 @@
 
 Merhaba! Ben Türkiye'den bir Bilgisayar Mühendisliği öğrencisi ve ofansif güvenlik alanında yetkinliklerini sahada kanıtlamaya odaklanan bir Junior Penetration Tester'ım. 
 
-Eylül 2026 itibarıyla eğitimime Prag'da, Czech Technical University'de (CTU) devam edeceğim. Bu süreçteki en büyük amacım, oradaki ofansif güvenlik topluluklarıyla bilgi alışverişinde bulunmak, kendimi geliştirebileceğim iyi bir staj fırsatı yakalamak ve fırsat buldukça Avrupa kültürlerini (özellikle Norveç'i) deneyimlemek.
-
-## ⚔️ Teknik Cephanelik
-* **Sızma Testi & Güvenlik:** Offensive Security konseptlerinde ileri düzey pratik (TryHackMe Top %2, Hack The Box).
+## ⚔️ Teknik Kabiliyetler
+* **Sızma Testi & Güvenlik:** Offensive Security konseptlerinde ileri düzey pratik (TryHackMe Top %1, Hack The Box, Proving Grounds).
 * **Altyapı & DevSecOps:** 3 mini PC ve bir network switch üzerinden kurduğum, uzaktan yönetilebilir Kubernetes Homelab mimarisi.
-* **Yazılım & Geliştirme:** Python, C, Java.
+* **Yazılım & Geliştirme:** Python, C/C++, Java.
 * **Dil:** İngilizce (C2 Proficient)
 
 ## 🚀 Aktif Projeler & Hedefler
@@ -16,5 +14,5 @@ Eylül 2026 itibarıyla eğitimime Prag'da, Czech Technical University'de (CTU) 
 
 ## 📫 İletişim
 Bana ulaşmak veya projelerim hakkında konuşmak isterseniz:
-* **LinkedIn:** [Profil Linkiniz]
-* **Email:** [E-Posta Adresiniz]
+* **LinkedIn:** [https://www.linkedin.com/in/mira%C3%A7-aral-848520332/]
+* **Email:** [mmirac.aral@gmail.com]
