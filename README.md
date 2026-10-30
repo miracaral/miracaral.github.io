@@ -1,6 +1,6 @@
 # Miraç Aral
 
-I'm a second-year computer engineering student from Turkey, currently spending a semester in Prague on Erasmus. Most of my free time goes into offensive security: breaking things on purpose, figuring out why they broke, and writing it down.
+I'm a second-year computer engineering student from Turkey, currently spending a semester in Prague on Erasmus. Most of my free time goes into offensive security and software engineering: breaking things on purpose, figuring out why they broke, and writing it down.
 
 ## What I work on
 
