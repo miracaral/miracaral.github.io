@@ -13,7 +13,7 @@ I'm a second-year computer engineering student from Turkey, currently spending a
 - [homelab-k8s-security](https://github.com/miracaral/homelab-k8s-security): securing my Kubernetes homelab, from Pod Security and network policies to watching traffic with Hubble.
 - [openssl-pki-homelab](https://github.com/miracaral/openssl-pki-homelab): a multi-tier PKI built with OpenSSL, plus an mTLS demo that turns away revoked certificates.
 - [go-network-tools](https://github.com/miracaral/go-network-tools): port scanners, an echo server and a port forwarder, written in Go to understand TCP properly.
-- [Foothold](https://github.com/miracaral/foothold): FOOTHOLD_HAKKINDA_BIR_CUMLE
+- [Foothold](https://github.com/miracaral/foothold): a single-page pentest and CTF companion that runs locally. Pick a phase, a port or a scan type and it gives you the commands, already filled in with your target.
 - [software-engineering-fundamentals](https://github.com/miracaral/software-engineering-fundamentals): my study projects in C, C++, Java, Scala and Python, organised by topic.
 
 ## Right now
